@@ -1,12 +1,13 @@
 body {
-    background-color: #eeeeee;
+    background-image: url(mtns.jpeg);
+    background-repeat: cover;
 }
 #countdownContainer {
   background-color:#419D78;
     color:#EFD0CA;
     font-size:20px;
     text-align:center;
-    font-family: "sans-serif";
+    font-family: 'Permanent Marker', cursive;
   }
 
 }
@@ -20,11 +21,12 @@ body {
     border-radius: 50px;
     border: 2px solid #5F9EA0;
     box-shadow: 10px 15px 5px #5F9EA0;
+    text-align: center;
 
 }
 
 .grid h1 {
-    font-family: "sans-serif";
+    font-family: 'Permanent Marker', cursive;
     background-color: #8FBC8F;
     font-size: 60px;
     text-align: center;
@@ -43,10 +45,12 @@ body {
     font-family: "monospace";
     font-size: 30px;
     color: #5A6772;
+    text-align: center;
 }
 
 .buttons {
     margin-top: 30px;
+
 }
 
 #btn0, #btn1, #btn2, #btn3 {
